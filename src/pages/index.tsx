@@ -11,8 +11,4 @@ export default function IndexPage() {
   );
 }
 
-// export function Head() {
-//   return <title>DevStickers!</title>;
-// }
-
 export const Head = () => <Seo title="Home" />;
